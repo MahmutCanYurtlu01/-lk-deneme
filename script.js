@@ -19,7 +19,7 @@ let models=[
 ];
 
 let settings={
-        duration:"2000",
+        duration:"3000",
         random:false
 
 };
